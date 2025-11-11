@@ -1,1 +1,2 @@
-falta carpeta de node.js
+falta carpeta de node.js ESTA SUBIDO UN COMPRIMIDO 7.ZIP SOLO HAY QUE DESCOMPRIMIR Y DEJAR LA CARPETA EN EL DIRECTORIO boletin-digital/backend
+
